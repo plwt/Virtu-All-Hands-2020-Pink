@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Virtu-All Hand 2020 Pink",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-000-5672c42860d5b06e1058dc477397f3ef.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgba(55, 69, 204, 0.01)",
+      "toolbar_text": "rgb(50, 55, 207)",
+      "frame": "rgb(255, 97, 145)",
+      "tab_background_text": "rgb(50, 55, 207)",
+      "toolbar_field": "rgb(255, 255, 255)",
+      "toolbar_field_text": "rgb(0, 0, 0)",
+      "tab_line": "rgb(254, 255, 255)",
+      "popup": "rgb(254, 255, 255)",
+      "popup_text": "rgb(50, 55, 207)",
+      "tab_loading": "rgb(254, 255, 255)"
+    }
+  }
+}
